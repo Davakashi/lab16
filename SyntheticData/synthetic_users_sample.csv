@@ -1,0 +1,21 @@
+name,email,age,country,role
+John Anderson,john.anderson@testdata.com,28,USA,admin
+Maria Garcia,maria.garcia@testdata.com,34,Spain,user
+Yuki Tanaka,yuki.tanaka@testdata.com,26,Japan,analyst
+Priya Patel,priya.patel@testdata.com,31,India,manager
+Olaf Hansen,olaf.hansen@testdata.com,45,Norway,admin
+Emma Wilson,emma.wilson@testdata.com,29,UK,user
+Chen Li,chen.li@testdata.com,33,China,analyst
+Sofia Rossi,sofia.rossi@testdata.com,27,Italy,guest
+Amir Hassan,amir.hassan@testdata.com,38,Egypt,manager
+Lars Svenson,lars.svenson@testdata.com,42,Sweden,user
+Natasha Volkov,natasha.volkov@testdata.com,25,Russia,analyst
+Diego Morales,diego.morales@testdata.com,36,Mexico,admin
+Amara Okonkwo,amara.okonkwo@testdata.com,30,Nigeria,user
+Kenji Yamamoto,kenji.yamamoto@testdata.com,44,Japan,manager
+Sophie Dubois,sophie.dubois@testdata.com,28,France,analyst
+Isabella Romano,isabella.romano@testdata.com,32,Italy,guest
+Ahmed Khan,ahmed.khan@testdata.com,39,Pakistan,user
+Lucia Fernandez,lucia.fernandez@testdata.com,26,Argentina,admin
+Wei Zhang,wei.zhang@testdata.com,35,Taiwan,manager
+Rosa Campos,rosa.campos@testdata.com,29,Brazil,user
